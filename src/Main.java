@@ -3,8 +3,8 @@ import java.sql.SQLOutput;
 public class Main {
     //Задача 1
     public static void main(String[] args) {
-        int age1 = 18;
-        if (age1 >= 18) {
+        int age2 = 18;
+        if (age2 >= 18) {
             System.out.println(" Поздравляю с совершеннолетием");
         } else {
             System.out.println(" возраст совершеннолетия ещё не наступил, и нужно немного подождать");
